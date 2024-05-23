@@ -1,0 +1,1 @@
+clone from [here](https://pub.dev/packages/super_cupertino_navigation_bar) because need custom.
